@@ -1,0 +1,17 @@
+body
+{
+	color: blue;
+	font-size: 20px;
+}
+
+article
+{
+	font-size: 30px;
+	color: red;
+}
+
+#test
+{
+	all: unset;
+}
+
